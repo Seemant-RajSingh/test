@@ -1,2 +1,2 @@
 text
-(origin2)
+(origin)
